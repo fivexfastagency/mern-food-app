@@ -53,5 +53,4 @@ export default tseslint.config({
 });
 ```
 
-1.28.27
-P
+2:09:55
